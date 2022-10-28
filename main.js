@@ -1,5 +1,3 @@
-
-
 const range = document.getElementById("range");
 range.oninput = change;
 function change(){
