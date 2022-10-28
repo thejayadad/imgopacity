@@ -1,0 +1,16 @@
+body {
+    height: 100vh;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    font-family: cursive;
+}
+
+#pic{
+    width: 300px;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
